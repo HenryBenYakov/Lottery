@@ -9,7 +9,7 @@ export function Login() {
       <div className="flex flex-col items-center mb-10">
         <img
           className="rounded-full h-56 w-56 mb-10"
-          src="https://i.imgur.com/4h7mAu7.png"
+          src="https://www.finsmes.com/wp-content/uploads/2022/08/Thirdweb-Logo-White-BG.png"
           alt=""
         />
         <h1 className="text-6xl text-white font-bold mb-6">The Lottery Draw</h1>
